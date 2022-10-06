@@ -1,0 +1,15 @@
+D:\training\Rookies3Clock\bin\Debug\net6.0\Rookies3Clock.exe
+D:\training\Rookies3Clock\bin\Debug\net6.0\Rookies3Clock.deps.json
+D:\training\Rookies3Clock\bin\Debug\net6.0\Rookies3Clock.runtimeconfig.json
+D:\training\Rookies3Clock\bin\Debug\net6.0\Rookies3Clock.dll
+D:\training\Rookies3Clock\bin\Debug\net6.0\Rookies3Clock.pdb
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.csproj.AssemblyReference.cache
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.AssemblyInfoInputs.cache
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.AssemblyInfo.cs
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.csproj.CoreCompileInputs.cache
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.dll
+D:\training\Rookies3Clock\obj\Debug\net6.0\refint\Rookies3Clock.dll
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.pdb
+D:\training\Rookies3Clock\obj\Debug\net6.0\Rookies3Clock.genruntimeconfig.cache
+D:\training\Rookies3Clock\obj\Debug\net6.0\ref\Rookies3Clock.dll
